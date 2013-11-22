@@ -1,7 +1,7 @@
 always-beep
 ===========
 
-The beep program can run all platforms.
+The beep program can run on all platforms.
 
 Usage
 =====
