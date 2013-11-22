@@ -1,4 +1,17 @@
 always-beep
 ===========
 
-A C program beeps.
+The beep program can run all platforms.
+
+Usage
+=====
+
+```
+> make beep
+> ./beep
+```
+
+Lincense
+=====
+
+MIT
