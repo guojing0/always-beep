@@ -1,17 +1,11 @@
-always-beep
-===========
+## Always Beep
 
-The beep program can run on all platforms.
+> Yes. It beeps until you tell it to stop.
 
-Usage
-=====
+### Author
 
-```
-> make beep
-> ./beep
-```
+`[Jing Guo](http://guoj.org)`
 
-Lincense
-=====
+### Lincense
 
 MIT
