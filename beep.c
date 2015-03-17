@@ -1,8 +1,10 @@
 #include <stdio.h>
 
-int main(void){
-    while (1){
-        printf("\a");
+int main(int argc, char const *argv[])
+{
+    while (1) {
+        printf("\a"); /* it would never stop unless you press Ctrl - C */
     }
-    return 0; /* It would never stop unless you press ctrl-c */
+
+    return 0;
 }
